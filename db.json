@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "shani",
+      "email": "123@gmail.com",
+      "address": "hjhjhgb",
+      "contact": "8989899",
+      "id": 3
+    },
+    {
+      "name": "shani",
+      "email": "123@gmail.com",
+      "address": "hjhjhgb",
+      "contact": "8989899",
+      "id": 4
+    },
+    {
+      "name": "shani",
+      "email": "123@gmail.com",
+      "address": "hjhjhgb",
+      "contact": "8989899",
+      "id": 5
+    },
+    {
+      "name": "shani",
+      "email": "123@gmail.com",
+      "address": "hjhjhgb",
+      "contact": "8989899",
+      "id": 6
+    },
+    {
+      "name": "nomi",
+      "email": "nomi@gmail.com",
+      "address": "mian cgha",
+      "contact": "898989",
+      "id": 7
+    }
+  ]
+}
